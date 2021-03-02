@@ -3,7 +3,7 @@ Content pages created with Html, Css, JavaScript.
 
 
 <p align="center">
-<img src="images/logo.png" alt="logo" width="70%"/>
+<img src="images/DavidSaal.png" alt="logo" width="70%"/>
 </p>
 
 ### Video Demonstration
