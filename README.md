@@ -11,8 +11,8 @@ Content pages created with Html, Css, JavaScript.
 
 ### Screenshots
 <p align="center">
-<img src="images/1.jpg" alt="Home screen" width="32%"/>
-<img src="images/3.jpg" alt="Choose color" width="32%"/>
+<img src="1.jpg" alt="Home screen" width="32%"/>
+<img src="2.jpg" alt="Choose color" width="32%"/>
 <img src="images/4.jpg" alt="Choose color" width="32%"/>
 </p>
 <p align="center">
